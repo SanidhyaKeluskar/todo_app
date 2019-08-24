@@ -13,3 +13,11 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+.btn {
+  background: #555;
+  color: azure;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+}
